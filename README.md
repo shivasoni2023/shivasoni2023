@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm shiva soni</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<img  align="right" alt="coding" width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-
-<p align="left"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIxM2MwYzJkYjAxOTkyYWU4YWNmMGMxNzcxOTk4OGI5NDc0NWE5OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
+<p align="right"> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIxM2MwYzJkYjAxOTkyYWU4YWNmMGMxNzcxOTk4OGI5NDc0NWE5OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
 - 🔭 I’m currently working on **news app**
 
 - 🌱 I’m currently learning **flutter dart #dsa**
