@@ -3,7 +3,6 @@
 <h3 align="center">A passionate backend developer from India</h3>
 <p align="right"> <img align="right" src="[https://github.com/shivasoni2023/shivasoni2023/blob/main/giphy.gif](https://github.com/shivasoni2023/shivasoni2023/blob/main/Flutter-App-Development-Basics-and-Benefits-3-600x280.png)">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shivasoni2023&label=Profile%20views&color=0e75b6&style=flat" alt="shivasoni2023" /> </p>
 
 - 🔭 I’m currently working on **news app**
 
