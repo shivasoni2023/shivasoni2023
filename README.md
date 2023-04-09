@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm shiva soni</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="center"> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIxM2MwYzJkYjAxOTkyYWU4YWNmMGMxNzcxOTk4OGI5NDc0NWE5OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"
+<p align="right"> <img align="right" src="https://github.com/shivasoni2023/shivasoni2023/blob/main/giphy.gif"
 - 🔭 I’m currently working on **news app**
 
 - 🌱 I’m currently learning **flutter dart #dsa**
