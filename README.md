@@ -1,7 +1,7 @@
 ![logo](https://www.dngappdeveloper.com/images/app-development/flutter-application-development-banner.jpg)
 <h1 align="center">Hi 👋, I'm shiva soni</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<p align="right"> <img align="right" src="[https://github.com/shivasoni2023/shivasoni2023/blob/main/giphy.gif](https://github.com/shivasoni2023/shivasoni2023/blob/main/Flutter-App-Development-Basics-and-Benefits-3-600x280.png)">
+<p align="right"> <img align="right" src="https://github.com/shivasoni2023/shivasoni2023/blob/main/giphy.gif">
 
 
 - 🔭 I’m currently working on **news app**
